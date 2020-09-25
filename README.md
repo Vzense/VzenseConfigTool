@@ -5,13 +5,13 @@
 ### Supported Devices
 
 - DCAM500
-  </br>Support FirmwareVersion: DCAM500_B_20200909_B13 and later
+Support FirmwareVersion: DCAM500_B_20200909_B13 and later
 
 - DCAM710
-  </br>Support FirmwareVersion: DCAM710_c086_pc_sv0.01_R4_20200914_b72 and later
+Support FirmwareVersion: DCAM710_c086_pc_sv0.01_R4_20200914_b72 and later
 
 - DCAM800Lite
-  </br>Support FirmwareVersion: DCAM800Lite_B_20200909_B13 and later
+Support FirmwareVersion: DCAM800Lite_B_20200909_B13 and later
 
 ### Resources
 
