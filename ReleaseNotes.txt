@@ -1,2 +1,5 @@
+V1.0.10
+1.support WDR_Depth_And_IR
+
 V1.0.9
 1.support 550P
