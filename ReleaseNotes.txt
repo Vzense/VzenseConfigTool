@@ -1,3 +1,6 @@
+V1.0.11
+1.support 550E
+
 V1.0.10
 1.support WDR_Depth_And_IR
 
