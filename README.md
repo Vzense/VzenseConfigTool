@@ -9,9 +9,7 @@
 - DCAM550E
 - DCAM710
 Support FirmwareVersion: DCAM710_c086_pc_sv0.01_R4_20200914_b72 and later
-- DCAM560
-- DCAM560CPRO
-- DCAM560CLITE
+- DCAM560C
 
 ### Resources
 
